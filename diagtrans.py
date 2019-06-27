@@ -61,5 +61,3 @@ def DiagCheck(board, player):
                 GameOver = True
                 return GameOver
     return GameOver
-
-print(DiagCheck(board,4))
